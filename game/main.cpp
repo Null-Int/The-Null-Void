@@ -1,5 +1,5 @@
 //
-// Copyright (c) 2020 Camron Huber, Licensed under GNU GPLv3 license
+// Copyright (c) 2020 Camron Huber, Licensed under GNU GPL-3.0-or-later license
 //
 // See COPYING.md for more details
 //
@@ -21,7 +21,7 @@ int main() {
 }
 
 //
-// Copyright (c) 2020 Camron Huber, Licensed under GNU GPLv3 license
+// Copyright (c) 2020 Camron Huber, Licensed under GNU GPL-3.0-or-later license
 //
 // See COPYING.md for more details
 //
